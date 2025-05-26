@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{191361c4-ec70-4c04-af60-165f96407f19}">
+		<property name="assetPath">
+			<value>Sound FX/Crashes/Metal Strike 01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.1946258503401361</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0dde74d6-2506-40f2-9e5c-0d88018e7cc7}</destination>
+		</relationship>
+	</object>
+</objects>

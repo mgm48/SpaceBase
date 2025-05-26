@@ -1,0 +1,14 @@
+- ambiente 2d (estatico o dinamico): al menos un sonido en loop y dos scattered instruments
+- musica dinamica loopeable: cambio en algun evento, mas puntos si mas dinamico
+- cambio de evento (stinger): cuando se gane, musica de fanfarria tiene que salir por otro evento
+- sonidos 3d localizados: asteroides cuando te pasan, cuando estallan, el planeta grande
+- sonidos nave:
+	- disparar 
+	- acelerar
+	- burst
+	- loop idle
+	- moverse
+	- colision asteroide
+- sonido de interfaz:
+	- asteroide destruido
+	- sonido de victoria

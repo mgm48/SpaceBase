@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c7428300-f3dc-4787-b6d4-695cfa0ff1a8}">
+		<property name="assetPath">
+			<value>Sound FX/Office Supplies/Turn Page of Paper Back Book 01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.60693877551020403</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0dde74d6-2506-40f2-9e5c-0d88018e7cc7}</destination>
+		</relationship>
+	</object>
+</objects>

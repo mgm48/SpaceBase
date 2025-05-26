@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{c90f6214-e980-4072-94d2-5c16f4da006b}">
+		<property name="assetPath">
+			<value>Sound FX/Weapons and Mass Destruction/Rifle_2.wav.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0dde74d6-2506-40f2-9e5c-0d88018e7cc7}</destination>
+		</relationship>
+	</object>
+</objects>

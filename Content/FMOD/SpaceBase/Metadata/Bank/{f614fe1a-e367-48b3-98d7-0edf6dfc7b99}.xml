@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Bank" id="{f614fe1a-e367-48b3-98d7-0edf6dfc7b99}">
+		<property name="name">
+			<value>Asteroids</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d0315582-5ef6-4bcb-8fd5-08cc17b673a2}</destination>
+		</relationship>
+	</object>
+</objects>

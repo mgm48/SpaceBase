@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{e77771dc-2e68-4405-b4dc-16d64c14b3d8}">
+		<property name="assetPath">
+			<value>Sound FX/Metal/Metal Hit 02.wav.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0dde74d6-2506-40f2-9e5c-0d88018e7cc7}</destination>
+		</relationship>
+	</object>
+</objects>

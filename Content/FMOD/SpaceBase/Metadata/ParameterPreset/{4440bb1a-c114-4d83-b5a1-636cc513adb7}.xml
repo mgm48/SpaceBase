@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{4440bb1a-c114-4d83-b5a1-636cc513adb7}">
+		<property name="name">
+			<value>Boosting</value>
+		</property>
+		<relationship name="folder">
+			<destination>{59f82186-debf-4d4f-b1fa-c15aca5c6e31}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9b459b61-0303-4f7f-a64a-c727e8d33cf4}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9b459b61-0303-4f7f-a64a-c727e8d33cf4}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>End</value>
+			<value>Start</value>
+			<value>None</value>
+		</property>
+		<property name="initialValue">
+			<value>2</value>
+		</property>
+	</object>
+</objects>

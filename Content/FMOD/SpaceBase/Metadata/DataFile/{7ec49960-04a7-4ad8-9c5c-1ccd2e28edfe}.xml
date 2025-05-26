@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{7ec49960-04a7-4ad8-9c5c-1ccd2e28edfe}">
+		<property name="assetPath">
+			<value>Sound FX/Transitional Elements/Whip 06.wav.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0dde74d6-2506-40f2-9e5c-0d88018e7cc7}</destination>
+		</relationship>
+	</object>
+</objects>

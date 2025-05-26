@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{1bd03c04-c983-4e1e-9096-10926f897582}">
+		<property name="assetPath">
+			<value>Sound FX/Weapons and Mass Destruction/Med Caliber Hand Gun_2.wav.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0dde74d6-2506-40f2-9e5c-0d88018e7cc7}</destination>
+		</relationship>
+	</object>
+</objects>

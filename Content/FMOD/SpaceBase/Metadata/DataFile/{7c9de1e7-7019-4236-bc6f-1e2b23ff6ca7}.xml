@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="DataFile" id="{7c9de1e7-7019-4236-bc6f-1e2b23ff6ca7}">
+		<property name="assetPath">
+			<value>Sound FX/Office Supplies/Pen Cap Closed 01.HDP</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{0dde74d6-2506-40f2-9e5c-0d88018e7cc7}</destination>
+		</relationship>
+	</object>
+</objects>

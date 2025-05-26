@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{9e09b860-e735-468a-a1c5-93ca8b7215d9}">
+		<property name="name">
+			<value>YCoord</value>
+		</property>
+		<relationship name="folder">
+			<destination>{59f82186-debf-4d4f-b1fa-c15aca5c6e31}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2301388f-28d7-40cb-b608-59580876163b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2301388f-28d7-40cb-b608-59580876163b}">
+		<property name="minimum">
+			<value>-1</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
