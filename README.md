@@ -1,5 +1,9 @@
 # Space-Base
 
+Diseño e implementación de sonido y música para el proyecto SpaceBase, cuya documentación original se detalla a continuación.
+
+# Documentación original
+
 Se trata de un pequeño videojuego sin sonorizar que puede servir como punto de partida para una práctica de integración de FMOD, diseño de sonido y composición sonora. En él manejamos una nave espacial que se tiene que desplazar y disparar asteroides hasta destruir suficientes como para ganar la partida.
 
 El índice de la documentación es el siguiente:
