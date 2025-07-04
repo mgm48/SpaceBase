@@ -1,6 +1,6 @@
 # Space-Base
 
-Audio Design and Implementation in an Unreal Engine project, of which we can find the documentation below.
+Audio Design and Implementation in an Unreal Engine project. The documentation for this project can be found below.
 
 # Documentación original
 
