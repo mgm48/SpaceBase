@@ -1,6 +1,6 @@
 # Space-Base
 
-Diseño e implementación de sonido y música para el proyecto SpaceBase, cuya documentación original se detalla a continuación.
+Audio Design and Implementation in an Unreal Engine project, of which we can find the documentation below.
 
 # Documentación original
 
